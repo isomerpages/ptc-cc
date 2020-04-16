@@ -1,0 +1,4 @@
+---
+title: myfirstpage
+permalink: /myfirstpage/
+---
