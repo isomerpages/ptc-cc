@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Be the Communter You Want To Meet
+        subtitle: Inspired by the movement for a caring culture in Singapore's public transport system.
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
